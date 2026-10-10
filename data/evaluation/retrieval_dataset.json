@@ -1,0 +1,23 @@
+[
+  {
+    "question": "What are the symptoms of diabetes?",
+    "relevant_document_ids": [
+      "a0ffc553ff6d4f57"
+    ]
+  },
+  {
+    "question": "What causes high blood pressure?",
+    "relevant_document_ids": [
+      "ceb4e37faaf4e144",
+      "8f49f6012a5f7c9"
+    ]
+  },
+  {
+    "question": "What are common symptoms of anemia?",
+    "relevant_document_ids": [
+      "f93f00b993178b95",
+      "8ab876af30efddfe",
+      "d2cc956a4782681d"
+    ]
+  }
+]
